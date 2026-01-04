@@ -1,37 +1,88 @@
-# 👋 Halo, saya Yudzxml!
+<div align="center">
 
-Selamat datang di profil GitHub saya! Saya seorang pengembang perangkat lunak yang bersemangat dalam pengembangan web, khususnya menggunakan PHP, JavaScript, dan Next.js. Saya suka menciptakan aplikasi yang intuitif dan responsif.
+<!-- Header / Intro -->
+# 👋 Halo, Saya Yudzxml!
+
+![Full Stack Developer](https://img.shields.io/badge/Full_Stack_Developer-Next.js%20|%20PHP-blue)
+![Open Source](https://img.shields.io/badge/Open_Source-Enthusiast-green)
+![Indonesia](https://img.shields.io/badge/Location-Indonesia-red)
+
+Selamat datang di repository saya! Saya seorang **Software Engineer** yang berfokus pada pengembangan web modern. Saya menggabungkan logika backend yang solid dengan antarmuka frontend yang interaktif untuk membangun aplikasi yang **scalable** dan **user-friendly**.
+
+</div>
+
+
 
 ## 🚀 Tentang Saya
 
-- 🔭 Saat ini saya sedang mengerjakan proyek berbasis Next.js dan PHP untuk meningkatkan pengalaman pengguna.
-- 🌱 Saya sedang belajar lebih dalam tentang optimasi performa aplikasi web dan pengembangan API.
-- 👯 Saya ingin berkolaborasi pada proyek open-source dan berbagi pengetahuan dengan komunitas.
-- 🤔 Saya mencari bantuan dengan integrasi API dan pengelolaan basis data.
-- 💬 Jangan ragu untuk menghubungi saya di [yudaaryaardhana1122@gmail.com](mailto:yudaaryaardhana1122@gmail.com).
-- ⚡ Fun fact: Saya suka bermain gitar dan menjelajahi alam saat tidak ngoding.
+Saya percaya bahwa kode yang baik bukan hanya tentang fungsi, tetapi juga tentang pengalaman. Saat ini, saya sedang mendalami ekosistem **Modern JavaScript** dan memperdalam keahlian di sisi server dengan **PHP**.
 
-## 🛠️ Teknologi yang Saya Kuasai
+- 🔭 **Fokus Saat Ini:** Membangun aplikasi berkinerja tinggi menggunakan **Next.js** dan **Laravel**.
+- 🌱 **Sedang Belajar:** Optimasi performa Web (Core Web Vitals) dan arsitektur Microservices.
+- 🤝 **Kolaborasi:** Selalu terbuka untuk berkontribusi pada proyek Open Source.
+- 💬 **Tanya Saya:** Tentang integrasi API kompleks, manajemen database, dan state management.
+- ⚡ **Keseruan Saya:** Bermain gitar 🎸 untuk melepas penat dan menjelajahi keindahan alam 🌲.
 
-- Bahasa Pemrograman: PHP, JavaScript
-- Frameworks: Next.js, Laravel
-- Markup & Styling: HTML, CSS, Bootstrap
-- Database: MySQL, MongoDB
-- Alat dan Platform: Git, Docker, AWS
 
-## 📈 Statistik GitHub
+## 🛠️ Tech Stack & Arsenal
 
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Yudzxml&show_icons=true&theme=radical)
+Menggunakan teknologi terbaik untuk memberikan solusi terbaik.
 
-## 🌟 Proyek Pilihan
+### 🌐 Frontend & UI
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
--
--
--
+### ⚙️ Backend & Database
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Tools & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+## 📊 GitHub Analytics
+
+Menjelajahi jejak kode dan kontribusi saya di GitHub.
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yudzxml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudzxml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yudzxml&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+
+## 🌟 Featured Projects
+
+Berikut adalah beberapa proyek unggulan yang telah saya kerjakan:
+
+
+
+> 📌 *Catatan: Tautan proyek akan diperbarui seiring dengan perkembangan repository.*
 
 ## 📫 Mari Terhubung!
 
-- [WhatsApp](https://wa.me/6283872031397)
-- [Website/Blog](https://yudzxml.dev.x-server.my.id)
+Tertarik untuk berkolaborasi atau sekadar ingin menyapa? Jangan ragu untuk menghubungi saya!
 
-Terima kasih telah mengunjungi profil saya! Jangan ragu untuk menjelajahi proyek saya dan menghubungi saya jika Anda memiliki pertanyaan atau ingin berkolaborasi!
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283872031397)
+[![Email](https://img.shields.io/badge/Email-Yudzxml-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudaaryaardhana1122@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Yudzxml.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yudzxml.dev.x-server.my.id)
+
+</div>
+
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i> – Cory House
+  <br><br>
+  <b>Terima kasih telah berkunjung! 🙏</b>
+</div>
