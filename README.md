@@ -95,7 +95,7 @@ Tertarik untuk berkolaborasi atau sekadar ingin menyapa? Jangan ragu untuk mengh
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283872031397)
 [![Email](https://img.shields.io/badge/Email-Yudzxml-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudaaryaardhana1122@gmail.com)
-[![Website](https://img.shields.io/badge/Website-Yudzxml.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yudzxml.dev.x-server.my.id)
+[![Website](https://img.shields.io/badge/Website-Yudzxml.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yydz.my.id)
 
 <br/>
 <br/>
