@@ -66,7 +66,81 @@ Menggunakan teknologi terbaik untuk memberikan solusi terbaik.
 
 Berikut adalah beberapa proyek unggulan yang telah saya kerjakan:
 
+### 📚 Komiku — Manga, Manhwa & Manhua Platform  
+🔗 **Website:** https://komiku.yydz.my.id  
 
+Platform web untuk membaca manga, manhwa, dan manhua dengan fokus pada performa tinggi, navigasi cepat, dan pengalaman pengguna yang nyaman di berbagai perangkat.
+
+**Highlight**
+- 📖 Reader ringan & responsif  
+- 🔍 Pencarian dan kategori terstruktur  
+- ⚡ Optimasi loading konten gambar  
+- 📱 Mobile-first experience  
+
+**Tech Stack**  
+`Next.js` · `API Integration` · `Performance Optimization`
+
+---
+
+### 🎥 HUASTREAM — Anime Streaming Platform  
+🔗 **Website:** https://huastream.yydz.my.id  
+
+Platform streaming anime berbasis web dengan fokus pada kecepatan pemutaran, stabilitas player, dan pengalaman menonton yang konsisten.
+
+**Highlight**
+- ▶️ Video streaming adaptif  
+- ⚡ Optimized buffering & fast player  
+- 📱 Mobile & desktop friendly  
+- 🧭 Navigasi episode yang rapi  
+
+**Tech Stack**  
+`Web Streaming Player` · `Next.js` · `Frontend Optimization`
+
+### 🔌 YYDZ REST API — Documentation & Services  
+🔗 **Documentation:** https://yydz.biz.id  
+
+Dokumentasi REST API terpusat untuk berbagai layanan backend, dirancang agar mudah dipahami, mudah diintegrasikan, dan siap digunakan di lingkungan produksi.
+
+**Highlight**
+- 📘 Dokumentasi API terstruktur  
+- 🔑 Endpoint siap produksi  
+- 🚀 Digunakan oleh web, bot, dan service internal  
+- 🧩 Scalable service design  
+
+**Tech Stack**  
+`Node.js / PHP` · `REST API` · `JSON`
+
+---
+
+### 🛒 YYDZ Store — Digital Product & Service Platform  
+🔗 **Website:** https://yydz.my.id  
+
+Platform penjualan produk dan layanan digital dengan alur sederhana, fokus pada konversi, dan siap dikembangkan ke sistem e-commerce yang lebih kompleks.
+
+**Highlight**
+- 🛍️ Landing produk terstruktur  
+- 💬 WhatsApp checkout integration  
+- 🔐 Struktur siap user & payment  
+- 📈 Extendable architecture  
+
+**Tech Stack**  
+`Next.js / PHP` · `UI/UX` · `System Integration`
+
+---
+
+### 🖥️ Panel Order — Pterodactyl Hosting Automation  
+🔗 **Website:** https://panel.yydz.my.id  
+
+Sistem otomasi pemesanan dan manajemen layanan hosting berbasis Pterodactyl Panel untuk provisioning server secara efisien dan terkontrol.
+
+**Highlight**
+- ⚙️ Otomatisasi pembuatan server  
+- 📦 Integrasi Pterodactyl API  
+- 🔐 Manajemen user & resource limit  
+- 💳 Siap diintegrasikan dengan payment gateway  
+
+**Tech Stack**  
+`Pterodactyl API` · `Automation` · `Server Management`
 
 > 📌 *Catatan: Tautan proyek akan diperbarui seiring dengan perkembangan repository.*
 
