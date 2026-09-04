@@ -12,15 +12,19 @@
 
 ---
 
-### 🔥 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yudzxml&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yudzxml&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yudzxml&theme=tokyonight&hide_border=true" alt="Profile Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yudzxml&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Yudzxml&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yudzxml&theme=tokyonight&hide_border=true" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yudzxml&theme=tokyonight&hide_border=true&utcOffset=7" alt="Productive Time"/>
 </p>
 
 </div>
@@ -40,7 +44,7 @@
 
 ### Frontend
 
-<div>
+<div align="center">
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -54,7 +58,7 @@
 
 ### Backend & Database
 
-<div>
+<div align="center">
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -67,7 +71,7 @@
 
 ### Tools & DevOps
 
-<div>
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -102,24 +106,6 @@ A fast and responsive web platform for reading comics with a clean interface and
 
 ---
 
-### 🎥 HUASTREAM
-**Anime Streaming Platform**
-
-High-performance anime streaming platform with adaptive video playback and smooth navigation.
-
-- 🎬 Adaptive streaming
-- 📺 Episode navigation
-- 🚀 Optimized buffering
-- 🎨 Modern UI
-
-**Stack:** Next.js · Web Player · API Integration
-
-[Visit Website](https://huastream.yydz.my.id)
-
-</td>
-
-<td valign="top" width="50%">
-
 ### 🔌 YYDZ REST API
 **Backend Services & Documentation**
 
@@ -133,6 +119,24 @@ Centralized documentation for backend services with production-ready endpoints.
 **Stack:** Node.js · PHP · REST API
 
 [Visit Website](https://yydz.biz.id)
+
+</td>
+
+<td valign="top" width="50%">
+
+### 🎥 HUASTREAM
+**Anime Streaming Platform**
+
+High-performance anime streaming platform with adaptive video playback and smooth navigation.
+
+- 🎬 Adaptive streaming
+- 📺 Episode navigation
+- 🚀 Optimized buffering
+- 🎨 Modern UI
+
+**Stack:** Next.js · Web Player · API Integration
+
+[Visit Website](https://huastream.yydz.my.id)
 
 ---
 
