@@ -102,7 +102,7 @@ A fast and responsive web platform for reading comics with a clean interface and
 
 **Stack:** Next.js · React · Tailwind CSS · API Integration
 
-[Visit Website](https://komiku.yydz.my.id) · [View Source](https://github.com/Yudzxml/komik-)
+[Visit Website](https://komiku.dpdns.org)
 
 ---
 
@@ -124,22 +124,6 @@ Centralized documentation for backend services with production-ready endpoints.
 
 <td valign="top" width="50%">
 
-### 🎥 HUASTREAM
-**Anime Streaming Platform**
-
-High-performance anime streaming platform with adaptive video playback and smooth navigation.
-
-- 🎬 Adaptive streaming
-- 📺 Episode navigation
-- 🚀 Optimized buffering
-- 🎨 Modern UI
-
-**Stack:** Next.js · Web Player · API Integration
-
-[Visit Website](https://huastream.yydz.my.id)
-
----
-
 ### 🖥️ Panel Order
 **Hosting Automation System**
 
@@ -152,7 +136,7 @@ Pterodactyl panel automation system for server management and resource allocatio
 
 **Stack:** Automation · PHP · Server Management
 
-[Visit Website](https://panel.yydz.my.id)
+[Visit Website](https://ptreopanel.eu.cc)
 
 </td>
 
